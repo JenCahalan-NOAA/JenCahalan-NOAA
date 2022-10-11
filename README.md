@@ -6,7 +6,7 @@ Alaska Fisheries Science Center
 Fisheries Monitoring and Assessment 
 _________________________________________________________________________________________________________________________________________________  
 
-I work with the NOAA Fisheries Alaska Fisheries Monitoring and Analysis Fisheries Monitoring and Analysis Division on projects related to the design and implementation of fisheries monitoring programs, sampling design, data collection methods, and catch estimation. 
+I work with the NOAA Fisheries Alaska Fisheries Monitoring and Analysis Division on projects related to the design and implementation of fisheries monitoring programs, sampling design, data collection methods, and catch estimation. 
 
 <br /><br /><br />NOAA README  
 This repository is a scientific product and is not official communication of the Pacific States Marine Fisheries Commission, National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project code is provided on an ‘as is’ basis and the user assumes responsibility for its use. Any claims against the Pacific States Marine Fisheries Commission or the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. 
